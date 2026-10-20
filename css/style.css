@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    height: 120px;
+    width: 80px;
+    background-color: aqua;
+}
+.two{
+     height: 120px;
+    width: 80px;
+    background-color: rgb(14, 101, 101);
+}
+.three{
+  height: 120px;
+    width: 80px;
+    background-color: rgb(197, 48, 170);   
+}
+.four{
+     height: 120px;
+    width: 80px;
+    background-color: rgb(172, 107, 3);
+}
+.parents{
+    display: flex;
+    justify-content: space-between;
+
+}
+.five{
+  height: 120px;
+    width: 80px;
+    background-color: rgb(0, 146, 56);   
+
+}
+.six{
+   height: 120px;
+    width: 80px;
+    background-color: rgb(213, 18, 18);   
+    margin: 90px 0px 0px 150px;
+}
+.seven{
+    height: 120px;
+    width: 80px;
+    background-color: rgb(64, 4, 4);   
+    margin: 0px 0px 0px 900px; 
+}
+.eight{
+    height: 120px;
+    width: 80px;
+    background-color: rgb(64, 4, 4);   
+    margin: 0px 50px 50px 0px;  
+}
+.pic{
+    background: url(../image/pexels-cdesign-39307839.jpg);
+    height: 1000px;
+   
+ background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+}
